@@ -1,0 +1,22 @@
+body {
+  background-color: lightblue;
+}
+h1{
+  color: #790252
+}
+h2{
+  color: #790252
+} 
+p{
+    color: #5F6F94
+}
+hr{
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+  width: 10%;
+}
+img{
+  background-color: red;
+}
